@@ -4,7 +4,7 @@
 I'm a full stack developer and I am looking to work. I have many skills that I have listed below. I also enjoy playing Overwatch 🙂
 
 ### My Skills
-HTML, CSS, SCSS, Typescript, Node.js, ExpressJS, Socket.IO, WebSocket, MongoDB, Mongoose, PostgreSQL, Prisma, React, React Native, SolidJS, VueJS
+HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, ExpressJS, Socket.IO, WebSocket, MongoDB, Mongoose, PostgreSQL, Prisma, React, React Native, SolidJS, VueJS
 
 ### Reach Me
 • <a href="https://twitter.com/Supertigerrr">Twitter: @Supertigerrr</a>   

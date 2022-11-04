@@ -1,7 +1,7 @@
 ## Hello! 👋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1FN57Z)
 ### Introduction
-I'm a full stack developer and I am looking to work. I have many skills that I have listed below. I also enjoy playing Overwatch 🙂
+I'm a full stack developer, looking to work. I have many skills that I have listed below.
 
 ### My Skills
 HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, ExpressJS, Socket.IO, WebSocket, MongoDB, Mongoose, PostgreSQL, Prisma, React, React Native, SolidJS, VueJS

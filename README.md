@@ -11,7 +11,7 @@ HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, ExpressJS, Socket.IO, WebSocke
 ### Socials
 • <a href="https://twitter.com/SupertigerDev">Twitter: @SupertigerDev</a>   
 • <a href="https://www.youtube.com/channel/UCMyHNJUhe8AJuWVhTduYWTQ">YouTube: Supertiger</a>   
-• <a href="https://discord.gg/urrG2UZ4nG">Discord Server: DevHelp</a>   
+• Discord Username: cat.noir
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SupertigerDev&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
